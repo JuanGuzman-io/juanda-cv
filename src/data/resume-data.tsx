@@ -36,7 +36,7 @@ export const RESUME_DATA = {
     },
     {
       school: "Universidad Autónoma de Occidente",
-      degree: "Master Big Data Analytics",
+      degree: "Specialization Big Data Analytics",
       start: "2023",
       end: "Present",
     },
