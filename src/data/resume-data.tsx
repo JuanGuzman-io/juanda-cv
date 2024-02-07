@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   about:
     "Passionate Informatics Engineer and Software Developer skilled in NodeJs/JavaScript/TypeScript",
   summary:
-    "I'm Informatics Engineer and Software Developer specializing in backend development. Proficient in JavaScript/TypeScript, I work with frameworks like Express.js and Nest.js, working with ORM such as TypeORM. My expertise extends to SQL databases (MySQL, PostgreSQL) and NoSQL (MongoDB). I am skilled in cloud computing, working with tools like AWS (EC2, Lambdas, S3), Linux, Bash, and Git. I also have experience in frontend development with React and Next.js.",
+    "I am a professional in Informatics Engineering and Software Development, driven by a passion for harnessing the transformative power of information, software, and digital tools to contribute to positive changes in the world. With expertise in JavaScript/TypeScript, Back-End frameworks, and both SQL and NoSQL databases, I bring a comprehensive skill set to the table; always implementing good development practices and documentation. Additionally, my proficiency extends to Cloud computing.",
   avatarUrl: "https://lh3.googleusercontent.com/fife/AGXqzDkvDDS4R2lbWdV_vgwsx_mlvum-YodVFSD7DXV1iqlB_jEvMbQijd_LjSjWlTE0F5LAIAA2MULpPve-y4ZtgDLCE3Cws1O_9cfzh3kmqMBCZugsdN4SQv19b_3hwOf29Qbj_iNTYoN4uaikaQqkjlwJuFexvGtzA0p0--uX3_fJmNo6qmNotDFXQIEty5da61Lun85COWeYT4CBESjouqNl4P9Ba7Fl3dkAZJ1BTLf4a2YCaG4mnMpDwnk3RA5WF-HDSKGAfV6o-0Kk47RoSj1gyWZzJv5Z1KywEO_8ti3uuAhRC1-5exthAPvKNfRv62I-xyv0rt0vZ6_UEmQZY0fX5iuT8PVAnTwBI0nOO9Uq8zcGTBUIXWkDTUJcXi9OHQ4lV7MIf20yG2pTT6Q-cHbcURE8zTLQavAQE9svUgkY0AaFZvqJYHe3X-ViNNrmHnIRWHp-thL8FBq8UiOQwY9moUq3ApvrCn4aArNoq5XXtrRx8si8yNgAfkHVl2xBH__1dJLEhBO2TF1WIbTWQJnhnJkxFjD9LZus8RgRqj9JnuvvSmxYzdkLckquFHM6LhMY6-Zfp9kgfnIHY6w2bl4wCouvo0LHlbG04HHYmTytfSJrw_nevnqxe7oszty29zL_16lctkM0Z3nV08RSG-4NrMIrdKZyzwmWG34e-eIYkGdpaifmKr9O78nwpAYkxtTYKPZe9BichAv9GnIDxcu5Ej1a0jAYSsIMEBM5BQkymZlPDDkwC0YAaM4maFyhILxMkuMkB6VPsi0Brn8HCSfqkEGwEuQpaPK2h9Cvk-ccY2VnfKjVU3TbPG8fIrmS1euu17uJDLftjAcvXoZia42mFURweygh1-4993GRlwVz79aDIh4o-ZA5t7vlaU5FeZHT3MAm3FhPmkq9Uepeq-5Fb1PrXXgvRxJD5vkHkXhFoIY_Mq9i9DbTIOQOcl17LyJCij94pHfywQnm7Exhbc2oScBI1NC7lLeIMTTRJzj13BTGOlILf98kDPQfgK-UZtN4grfBKOJrfsSRz-5qWf7CJxRZokgVTdrh8QL_sCfU8mMFVBi9LkG2VoMD9RR6lBxj3hiddLZgS-IQKXO0jBXa0hJcXOpyNH81ryOI05HvWe-rVgaoVzdnUhF7eheKXeBDN2Di4jhgEovNXtmytI6daBcmo0VDl2pxOrkGvE_fKOTi_RwZAHqJYAiYGSOGPrrS9rI1vQr_rGmn3U4Ya3UczSEUJkZaqXr77qMFa1pxr6G8DdaoaEbLAGYefTzmgdJpvOPYcn1VpHDGO0LLjGVUoDLgykpuhPtNzofxRV6ms2K4Us4Xw4Su0VtceWJm1fOkSmRo9EeWtcgmLM-9twWow5shpw4Rw6_UXm9LIuQUaVvnBK4vSffjYpD7gwMWagCCGT34diXGXo4m3LxCPlasozyJa19wvFrLsPQwRsmtpL-S_B4ppt2m9cBdV1UptQq9y3hHi6IdnNq9DV8YA5mv9hzZc5q1VmxGGi2qjyl23Y9cAJ_mc47nkfsuI16VgGYW2Cqpw7U=w2258-h1606",
   contact: {
     email: "juandelgadog98@gmail.com",
@@ -61,7 +61,7 @@ export const RESUME_DATA = {
       end: "Feb - 2023",
       description:
         `• Development of modules for applications (BackEnd - NestJs).
-        • Implementation of new functionalities, code clean, optimizations and applications performance improvement (Back End - ExpressJS).
+        • Implementation of new functionalities, code clean, optimizations and applications performance improvement (Back End - ExpressJs).
         • Database management, implementation of functions, views and procedures (MySQL).
         • Implementation of unit testing and e2e testing.
         • Provide support, access management and deck support for platform users.
@@ -74,7 +74,7 @@ export const RESUME_DATA = {
       title: "BackEnd Developer",
       start: "Jan 2023",
       end: "Jun 2023",
-      description: "Development of the web application for inventory and supplies management for the foundation. Technologies: TypeScript, NestJs, MySQL, Amazon S3, Git, GitHub.",
+      description: "Development of the web application for inventory and supplies management for the foundation. Technologies: TypeScript, NestJs, MySQL, TypeORM, Amazon S3.",
     },
     {
       company: "Alliance Bioversity International and CIAT",
@@ -84,7 +84,7 @@ export const RESUME_DATA = {
       start: "Mar - 2023",
       end: "Feb - 2024",
       description:
-        `• Development of modules for applications (- BackEnd NestJs/ExpressJS - FrontEnd Angular).
+        `• Development of modules for applications (- BackEnd NestJs/ExpressJs - FrontEnd Angular).
         • Database management, implementation of functions, views and procedures (MySQL).
         • Provide support, access management and deck support for platform users.
         • Contribution in the unit Notion for the documentation of projects and the creation of the internal directory.`,
@@ -96,14 +96,17 @@ export const RESUME_DATA = {
     "NodeJS",
     "NestJs",
     "BackEnd",
-    "REST API", 
+    "API's RESTful", 
+    "Middleware", 
     "TypeORM",
+    "Prisma",
     "MySQL",
     "PostgreSQL",
     "MongoDB",
     "AWS - S3, Lambda, EC2",
     "Linux OS, Bash",
     "React/Next.js",
+    "Git - GitHub",
     "Documentation - JIRA, Notion",
   ],
   projects: [
