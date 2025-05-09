@@ -9,10 +9,11 @@ Built with Next.js and shadcn/ui, deployed on Vercel.
 # Features
 
 - Setup only takes a few minutes [single config file](./src/data/resume-data.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/ui, TailwindCss
+- Built using Next.js 14.1.0, React, Typescript, Shadcn/ui, TailwindCss
 - Auto generated Layout
 - Responsive for different devices
 - Optimized for Next.js and Vercel
+- Performance optimizations with SWC minification
 
 # Getting Started Locally
 
@@ -61,6 +62,15 @@ Stop the Container
 ```
 docker compose down 
 ```
+
+# Upgrade Notes (May 2025)
+
+This project has been upgraded to Next.js 14.1.0 from 14.0.4. The upgrade includes:
+
+- Performance improvements with SWC minification enabled
+- Enhanced React Strict Mode
+- Disabled X-Powered-By header for security
+- Updated dependencies
 
 # License
 
